@@ -1,0 +1,309 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "form-feature;verify-the-login-button-enabled-with-the-multiple-datasets",
+        "keyword": "Scenario Outline",
+        "line": 10,
+        "name": "Verify the login button enabled with the multiple datasets",
+        "steps": [
+          {
+            "result": {
+              "status": "passed",
+              "duration": 1861711100
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 3105547599
+            },
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "the user is on the form page",
+            "match": {
+              "location": "features\\stepDefinitions\\formStep.ts:7"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 6096917399
+            },
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "the user fills the form with \"John Doe\", \"john@example.com\", \"Male\", \"1234567890\", \"1990-01-01\", \"Math\", \"Reading\", \"./Jhon.txt\", \"123 Street\", \"Haryana\" and \"Lucknow\"",
+            "match": {
+              "location": "features\\stepDefinitions\\formStep.ts:12"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 42920000
+            },
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "the user should see the login button is enabled",
+            "match": {
+              "location": "features\\stepDefinitions\\formStep.ts:16"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 342153200
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 3381400
+            },
+            "keyword": "After",
+            "hidden": true
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "form-feature;verify-the-login-button-enabled-with-the-multiple-datasets",
+        "keyword": "Scenario Outline",
+        "line": 11,
+        "name": "Verify the login button enabled with the multiple datasets",
+        "steps": [
+          {
+            "result": {
+              "status": "passed",
+              "duration": 2247703399
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 2588375800
+            },
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "the user is on the form page",
+            "match": {
+              "location": "features\\stepDefinitions\\formStep.ts:7"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 5997429800
+            },
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "the user fills the form with \"Jane Smith\", \"jane@example.com\", \"Female\", \"0987654321\", \"1992-02-02\", \"Science\", \"Sports\", \"./Jhon.txt\", \"456 Avenue\", \"Uttar Pradesh\" and \"Agra\"",
+            "match": {
+              "location": "features\\stepDefinitions\\formStep.ts:12"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 12264600
+            },
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "the user should see the login button is enabled",
+            "match": {
+              "location": "features\\stepDefinitions\\formStep.ts:16"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 419291600
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 1793099
+            },
+            "keyword": "After",
+            "hidden": true
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "form-feature;verify-the-login-button-enabled-with-the-multiple-datasets",
+        "keyword": "Scenario Outline",
+        "line": 12,
+        "name": "Verify the login button enabled with the multiple datasets",
+        "steps": [
+          {
+            "result": {
+              "status": "passed",
+              "duration": 2022202199
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 2588693200
+            },
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "the user is on the form page",
+            "match": {
+              "location": "features\\stepDefinitions\\formStep.ts:7"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 6012741099
+            },
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "the user fills the form with \"Alice Johnson\", \"alice@example.com\", \"Female\", \"1122334455\", \"1993-03-03\", \"English\", \"Music\", \"./Jhon.txt\", \"789 Boulevard\", \"NCR\" and \"Agra\"",
+            "match": {
+              "location": "features\\stepDefinitions\\formStep.ts:12"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 17272199
+            },
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "the user should see the login button is enabled",
+            "match": {
+              "location": "features\\stepDefinitions\\formStep.ts:16"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 358162100
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 1295500
+            },
+            "keyword": "After",
+            "hidden": true
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "form-feature;verify-the-login-button-enabled-with-the-multiple-datasets",
+        "keyword": "Scenario Outline",
+        "line": 13,
+        "name": "Verify the login button enabled with the multiple datasets",
+        "steps": [
+          {
+            "result": {
+              "status": "passed",
+              "duration": 1798785499
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 2249908900
+            },
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "the user is on the form page",
+            "match": {
+              "location": "features\\stepDefinitions\\formStep.ts:7"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 5999615300
+            },
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "the user fills the form with \"Bob Brown\", \"bob@example.com\", \"Male\", \"6677889900\", \"1994-04-04\", \"History\", \"Reading\", \"./Jhon.txt\", \"1010 Lane\", \"Rajasthan\" and \"Meerut\"",
+            "match": {
+              "location": "features\\stepDefinitions\\formStep.ts:12"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 11604599
+            },
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "the user should see the login button is enabled",
+            "match": {
+              "location": "features\\stepDefinitions\\formStep.ts:16"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 343497699
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 1859600
+            },
+            "keyword": "After",
+            "hidden": true
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "form-feature",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Form Feature",
+    "tags": [],
+    "uri": "features\\form.feature"
+  }
+]
