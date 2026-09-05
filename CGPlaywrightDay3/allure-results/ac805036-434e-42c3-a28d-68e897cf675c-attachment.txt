@@ -1,0 +1,12 @@
+Account Summary Page is verified
+Checking account balance is verified: 4250
+Savings account balance is verified: 18400
+Fund Transfer Page is verified
+New Beneficiary is added
+OTP is : 996370
+Fund Transfer is completed
+Account Summary Page is verified
+Checking account balance is verified: 4150
+Savings account balance is verified: 18400
+Difference in balance of checking = 4250 - 4150 = 100
+Difference in balance of checking = 18400 - 18400 = 0

@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5944","E2E testing for the banking application","chromium","2026-09-03","passed","2026-09-03","","E2E.spec.ts","",""
